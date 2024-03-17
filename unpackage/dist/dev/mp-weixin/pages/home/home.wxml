@@ -1,0 +1,1 @@
+<view class="header data-v-07e72d3c"><text class="data-v-07e72d3c">校园综合服务平台</text></view><view class="body data-v-07e72d3c"><homestudent wx:if="{{a}}" class="data-v-07e72d3c" u-i="07e72d3c-0" bind:__l="__l"></homestudent><administrator wx:if="{{b}}" class="data-v-07e72d3c" u-i="07e72d3c-1" bind:__l="__l"></administrator></view>

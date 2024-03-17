@@ -1,0 +1,21 @@
+/* 水平间距 */
+/* 水平间距 */
+view.data-v-22ecc2c8 {
+  padding: 20rpx;
+}
+view .box.data-v-22ecc2c8 {
+  box-shadow: 2px 2px 2px 1px #f7f7f7;
+}
+view .box .students.data-v-22ecc2c8 {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 8rpx solid #f6f6f6;
+  align-items: center;
+}
+view .box .students .students-left .butten.data-v-22ecc2c8 {
+  width: 80rpx;
+  text-align: center;
+  background-color: red;
+  color: #fff;
+  border-radius: 30rpx;
+}

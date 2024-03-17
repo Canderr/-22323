@@ -1,0 +1,12 @@
+{
+    "id": "lpx-timetable",
+    "name": "timetable课程表",
+    "version": "0.0.3",
+    "description": "timetable课程表, 思路来自https://www.jq22.com/jquery-info20282",
+    "keywords": [
+        "timetable",
+        "课程表",
+        "仿超级课程表",
+        "大学课表"
+    ]
+}

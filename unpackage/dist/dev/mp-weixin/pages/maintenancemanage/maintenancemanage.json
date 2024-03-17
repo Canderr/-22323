@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "维修人员管理",
+  "enablePullDownRefresh": false,
+  "onReachBottomDistance": 10,
+  "usingComponents": {}
+}

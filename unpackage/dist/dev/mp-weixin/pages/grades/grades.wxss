@@ -1,0 +1,42 @@
+/* 水平间距 */
+/* 水平间距 */
+.box.data-v-3f1dcccc {
+  display: flex;
+  justify-content: center;
+}
+.box .backgroud-header.data-v-3f1dcccc {
+  position: fixed;
+  font-size: 70rpx;
+  text-align: center;
+  line-height: 440rpx;
+  color: white;
+  background: linear-gradient(to bottom left, #6e49d4, #697dde);
+  width: 100%;
+  height: 650rpx;
+  border-bottom-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+  z-index: -1;
+}
+.box .grades.data-v-3f1dcccc {
+  width: 85%;
+  padding: 30rpx;
+  margin-top: 50%;
+  background-color: #fefefe;
+  border-radius: 20rpx;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.box .grades picker.data-v-3f1dcccc {
+  color: #b2b4b3;
+  border-bottom: 3px solid #f6f6f6;
+}
+.box .grades .gradesitem.data-v-3f1dcccc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 150rpx;
+  line-height: 60rpx;
+  border-bottom: 3px solid #f6f6f6;
+}
+.box .grades .gradesitem .gradesitem-right.data-v-3f1dcccc {
+  letter-spacing: 5rpx;
+}

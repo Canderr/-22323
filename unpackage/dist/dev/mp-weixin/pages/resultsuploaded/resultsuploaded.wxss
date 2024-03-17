@@ -1,0 +1,16 @@
+/* 水平间距 */
+/* 水平间距 */
+view.data-v-5d98a8c3 {
+  padding: 30rpx;
+}
+view .submitmessage.data-v-5d98a8c3 {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+view .submitmessage .submibutten.data-v-5d98a8c3 {
+  line-height: 25rpx;
+  text-align: center;
+  border-radius: 30rpx;
+  margin: 10rpx auto;
+  background-color: #4d74f7;
+  color: #fff;
+}

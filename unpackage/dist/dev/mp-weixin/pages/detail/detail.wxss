@@ -1,0 +1,37 @@
+/* 水平间距 */
+/* 水平间距 */
+.butten.data-v-eca06f3c {
+  width: 200rpx;
+  text-align: center;
+  line-height: 80rpx;
+  border-radius: 30rpx;
+  margin: 50rpx auto;
+  background-color: #4d74f7;
+  color: #fff;
+}
+.state.data-v-eca06f3c {
+  text-align: center;
+}
+.deteil.data-v-eca06f3c {
+  word-wrap: break-word;
+}
+.top.data-v-eca06f3c {
+  margin-top: 10rpx;
+  height: 80rpx;
+  display: flex;
+  position: relative;
+  align-items: baseline;
+}
+.top .title.data-v-eca06f3c {
+  font-size: 38rpx;
+  font-weight: 600;
+  margin-right: 20rpx;
+}
+.top .date.data-v-eca06f3c {
+  font-size: 24rpx;
+  color: #bbb;
+}
+.top .desc.data-v-eca06f3c {
+  font-size: 28rpx;
+  /* text-indent: 56rpx; */
+}

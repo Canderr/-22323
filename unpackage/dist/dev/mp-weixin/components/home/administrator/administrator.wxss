@@ -1,0 +1,15 @@
+/* 水平间距 */
+/* 水平间距 */
+.box.data-v-e6d47b6d {
+  margin: 100rpx auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.box .menu.data-v-e6d47b6d {
+  margin-bottom: 50rpx;
+  width: 43%;
+  text-align: center;
+  border: 1px solid rebeccapurple;
+  line-height: 100rpx;
+}

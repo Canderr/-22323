@@ -1,0 +1,199 @@
+{
+	"pages": [{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+				
+			}
+
+		},
+		{
+			"path": "pages/personal/personal ",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+
+		}
+	    ,{
+            "path" : "pages/coursetable/coursetable",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationBarTitleText": "课表"
+            }
+			
+            
+        }
+        ,{
+            "path" : "pages/grades/grades",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationBarTitleText": "成绩"
+		
+            }
+            
+        }
+        ,{
+            "path" : "pages/lostandfound/lostandfound",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "失物招领",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/lost/lost",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/repair/repair",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "报修",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/submitrepair/submitrepair",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "提交报修",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/modificationInformation/modificationInformation",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "重置密码",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/studentmanage/studentmanage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "学生管理",
+                "enablePullDownRefresh": false,
+				"onReachBottomDistance": 10
+            }
+            
+        }
+        ,{
+            "path" : "pages/maintenancemanage/maintenancemanage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "维修人员管理",
+                "enablePullDownRefresh": false,
+				"onReachBottomDistance": 10
+            }
+            
+        }
+        ,{
+            "path" : "pages/resultsuploaded/resultsuploaded",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "成绩上传",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/courseaddition/courseaddition",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "课程添加",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/detail/detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/myposting/myposting",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的发布",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/adminrpair/adminrpair",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/adminrpairdetail/adminrpairdetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	
+	"tabBar": {
+		"selectedColor": "#1296db",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"text": "首页",
+				"iconPath": "static/icon/home.png",
+				"selectedIconPath": "static/icon/highlighthome.png"
+			},
+			{
+				"pagePath": "pages/personal/personal ",
+				"text": "个人中心",
+				"iconPath": "static/icon/my.png",
+				"selectedIconPath": "static/icon/highlightmy.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}

@@ -1,0 +1,1 @@
+<view class="box data-v-e6d47b6d"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="menu data-v-e6d47b6d" bindtap="{{item.c}}"><text class="data-v-e6d47b6d">{{item.a}}</text></view></view>

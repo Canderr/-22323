@@ -1,0 +1,68 @@
+/* 水平间距 */
+/* 水平间距 */
+@font-face {
+  font-family: "iconfont";
+  /* Project id 4265986 */
+  src: url("//at.alicdn.com/t/c/font_4265986_0c9hbwev5vxf.woff2?t=1695537517613") format("woff2"), url("//at.alicdn.com/t/c/font_4265986_0c9hbwev5vxf.woff?t=1695537517613") format("woff"), url("//at.alicdn.com/t/c/font_4265986_0c9hbwev5vxf.ttf?t=1695537517613") format("truetype");
+}
+.iconfont.data-v-b44dc252 {
+  font-family: "iconfont" !important;
+  font-size: 60rpx;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.header.data-v-b44dc252 {
+  height: 380rpx;
+  background-color: #4d74f7;
+  line-height: 380rpx;
+  color: white;
+  text-align: center;
+  font-size: 35rpx;
+}
+.menu.data-v-b44dc252 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #fdfffe;
+  border-radius: 30rpx;
+  padding: 0 30rpx;
+}
+.menu .menuitem.data-v-b44dc252 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 130rpx;
+  margin: 10rpx 90rpx;
+  font-size: 28rpx;
+}
+.todays-course.data-v-b44dc252 {
+  margin-top: 20rpx;
+  border-radius: 30rpx;
+  background-color: #fdfffe;
+  padding: 20rpx;
+}
+.todays-course .todays-course-header.data-v-b44dc252 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.todays-course .todays-course-header .academicyear.data-v-b44dc252 {
+  color: #b2b4b3;
+}
+.todays-course .coursetitle.data-v-b44dc252 {
+  font-size: 28rpx;
+  padding: 20rpx;
+}
+.todays-course .couresitem.data-v-b44dc252 {
+  border-radius: 20rpx;
+  padding: 20rpx;
+  box-shadow: 2px 2px 2px 1px #f7f7f7;
+  border: 2rpx solid #f7f7f7;
+  padding: 20rpx;
+  margin-bottom: 10rpx;
+  padding: 20rpx;
+}
+.todays-course .couresitem .couresitem-one.data-v-b44dc252 {
+  margin-bottom: 10rpx;
+}

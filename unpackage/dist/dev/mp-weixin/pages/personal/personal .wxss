@@ -1,0 +1,36 @@
+/* 水平间距 */
+/* 水平间距 */
+.box .login-header.data-v-efcefbd9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 320rpx;
+  background: linear-gradient(to bottom left, #6e49d4, #697dde);
+  color: white;
+}
+.box .login-header .login-avatar.data-v-efcefbd9 {
+  height: 200rpx;
+  width: 200rpx;
+  text-align: center;
+}
+.box .login-header .login-avatar image.data-v-efcefbd9 {
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+}
+.box .personal-information .information.data-v-efcefbd9 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20rpx;
+  border-bottom: 8rpx solid #f6f6f6;
+}
+.box .sign-out.data-v-efcefbd9 {
+  background-color: #4d74f7;
+  color: #fff;
+  line-height: 100rpx;
+  text-align: center;
+  margin: 20rpx auto;
+  border-radius: 30rpx;
+  width: 80%;
+}

@@ -1,0 +1,53 @@
+/* 水平间距 */
+/* 水平间距 */
+@font-face {
+  font-family: "iconfont";
+  /* Project id 4265986 */
+  src: url("//at.alicdn.com/t/c/font_4265986_7e0jxarqqru.woff2?t=1696127619288") format("woff2"), url("//at.alicdn.com/t/c/font_4265986_7e0jxarqqru.woff?t=1696127619288") format("woff"), url("//at.alicdn.com/t/c/font_4265986_7e0jxarqqru.ttf?t=1696127619288") format("truetype");
+}
+.iconfont.data-v-eb2eecca {
+  font-family: "iconfont" !important;
+  font-size: 40rpx;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.content.data-v-eb2eecca {
+  padding: 30rpx;
+}
+.content .toberepaired .repairedorders.data-v-eb2eecca {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 4rpx solid #d9d9d9;
+}
+.content .toberepaired .repairedorders .repairedorders-one.data-v-eb2eecca {
+  height: 70rpx;
+  line-height: 70rpx;
+}
+.content .toberepaired .repaireddetail .repairedequipment.data-v-eb2eecca {
+  margin-top: 20rpx;
+}
+.content .toberepaired .repaireddetail .repairedmessage.data-v-eb2eecca {
+  line-height: 20px;
+  margin-top: 20rpx;
+}
+.content .toberepaired .orderstatus.data-v-eb2eecca {
+  margin-top: 30rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.content .toberepaired .orderstatus .right.data-v-eb2eecca {
+  width: 190rpx;
+  border-radius: 20rpx;
+  line-height: 65rpx;
+  background-color: #d19a66;
+}
+.content .toberepaired .orderstatus .left.data-v-eb2eecca {
+  width: 160rpx;
+  border-radius: 20rpx;
+  line-height: 65rpx;
+  background-color: #5bad24;
+}

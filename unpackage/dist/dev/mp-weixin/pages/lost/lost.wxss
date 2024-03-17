@@ -1,0 +1,22 @@
+/* 水平间距 */
+/* 水平间距 */
+.bigbox .box.data-v-79c284f2 {
+  border-radius: 20rpx;
+}
+.bigbox .box textarea.data-v-79c284f2 {
+  width: 100%;
+  height: 300rpx;
+  border-bottom: 4rpx solid #ececec;
+}
+.bigbox .box .file.data-v-79c284f2 {
+  margin-top: 20rpx;
+}
+.bigbox .box .butten.data-v-79c284f2 {
+  width: 80%;
+  text-align: center;
+  line-height: 80rpx;
+  border-radius: 30rpx;
+  margin: 20rpx auto;
+  color: #fff;
+  background-color: #4d74f7;
+}

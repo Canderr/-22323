@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "homestudent": "../../components/home/homestudent/homestudent",
+    "administrator": "../../components/home/administrator/administrator"
+  }
+}

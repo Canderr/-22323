@@ -1,0 +1,67 @@
+/* 水平间距 */
+/* 水平间距 */
+.box.data-v-e4e4508d {
+  display: flex;
+  justify-content: center;
+}
+.box .backgroud-header.data-v-e4e4508d {
+  position: fixed;
+  font-size: 70rpx;
+  text-align: center;
+  line-height: 440rpx;
+  color: white;
+  background: linear-gradient(to bottom left, #6e49d4, #697dde);
+  width: 100%;
+  height: 650rpx;
+  border-bottom-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+  z-index: -1;
+}
+.box .login.data-v-e4e4508d {
+  width: 90%;
+  border: 1px solid rebeccapurple;
+  border-radius: 30rpx;
+  margin-top: 50%;
+  background-color: #fff;
+}
+.box .login .control.data-v-e4e4508d {
+  display: flex;
+  justify-content: space-around;
+}
+.box .login .control view.data-v-e4e4508d {
+  line-height: 100rpx;
+  text-align: center;
+  width: 200rpx;
+}
+.box .login .control .active.data-v-e4e4508d {
+  color: #697dde;
+}
+.box .login .login-input.data-v-e4e4508d {
+  padding: 20rpx;
+  text-align: center;
+}
+.box .login .login-input .sin-up.data-v-e4e4508d {
+  width: 35%;
+  text-align: center;
+  line-height: 50rpx;
+  border-radius: 20rpx;
+  margin: 50rpx auto;
+  background-color: #697dde;
+  color: #fff;
+}
+.box .login .chooserole.data-v-e4e4508d {
+  display: flex;
+}
+.isshowusers.data-v-e4e4508d {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+.isshowusers .users.data-v-e4e4508d {
+  padding: 5rpx;
+  width: 170rpx;
+  line-height: 50rpx;
+  text-align: center;
+  margin-left: 10rpx;
+}

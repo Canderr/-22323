@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/personal/personal ",
+    "pages/coursetable/coursetable",
+    "pages/grades/grades",
+    "pages/lostandfound/lostandfound",
+    "pages/lost/lost",
+    "pages/repair/repair",
+    "pages/submitrepair/submitrepair",
+    "pages/modificationInformation/modificationInformation",
+    "pages/studentmanage/studentmanage",
+    "pages/maintenancemanage/maintenancemanage",
+    "pages/resultsuploaded/resultsuploaded",
+    "pages/courseaddition/courseaddition",
+    "pages/login/login",
+    "pages/detail/detail",
+    "pages/myposting/myposting",
+    "pages/adminrpair/adminrpair",
+    "pages/adminrpairdetail/adminrpairdetail"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/highlighthome.png"
+      },
+      {
+        "pagePath": "pages/personal/personal ",
+        "text": "个人中心",
+        "iconPath": "static/icon/my.png",
+        "selectedIconPath": "static/icon/highlightmy.png"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}
