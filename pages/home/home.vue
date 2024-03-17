@@ -20,6 +20,7 @@
 		onLoad
 	} from '@dcloudio/uni-app';
 	const typ = ref(1)
+	const abc = 1
 	onShow(()=>{
 		uni.getStorage({
 			key:'usermessage',
